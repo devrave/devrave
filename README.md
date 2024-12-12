@@ -1,25 +1,16 @@
-# Andrés Cano Rave 👨‍💻
+# Andrés Cano Rave
+
+# <span style="color:#FF00FF; font-size:200px">devrave</span>
 
 ## 🚀 Industrial Engineer | Software Developer | Continuous Improvement Specialist
 
 ### 📧 Contact
 - **Email**: a.canorave@gmail.com
-- **Phone**: +57 3052347042
 - **LinkedIn**: [Andrés Cano Rave](https://www.linkedin.com/in/andrés-cano-rave-019445153/)
 - **GitHub**: [devrave](https://github.com/devrave)
 
 ### 💼 Professional Profile
-I am a passionate Industrial Engineer with over a decade of professional experience, specialized in transforming complex operational challenges into innovative technological solutions. My journey bridges the gap between traditional industrial engineering and modern software development, bringing a unique perspective to technological problem-solving.
-
-With a robust background in continuous improvement methodologies and a growing expertise in software development, I thrive on creating efficient, scalable systems that drive organizational performance. My professional philosophy centers on leveraging technology to optimize processes, reduce inefficiencies, and create sustainable solutions.
-
-Throughout my career, I have successfully:
-- Led digital transformation initiatives in various industrial and administrative environments
-- Developed and implemented maintenance strategies that significantly improved equipment reliability
-- Integrated agile methodologies to enhance project delivery and team collaboration
-- Translated complex business requirements into technical solutions using modern programming technologies
-
-My technical curiosity drives me to continuously learn and adapt, whether it's exploring new programming languages, understanding emerging technologies, or solving complex engineering challenges.
+Passionate Industrial Engineer with over a decade of experience, bridging traditional engineering principles with innovative software development. I specialize in transforming complex operational challenges into technological solutions, combining technical expertise with strategic thinking.
 
 ### 🛠 Technical Skills
 #### Programming Languages & Frameworks
@@ -45,21 +36,25 @@ My technical curiosity drives me to continuously learn and adapt, whether it's e
 - Maintenance Program Development
 
 ### 🏗 Professional Strengths
-- Strategic thinking in technological implementations
-- Expertise in developing reliable and maintainable systems
-- Strong adaptation to dynamic technological environments
+- Strategic technological implementations
+- Developing reliable systems
+- Adaptive to dynamic environments
 - Cross-functional collaboration
 - Data-driven decision making
 
 ### 🌐 Languages
 - Spanish (Native)
-- English (Professional Working Proficiency)
+- English (Intermediate)
+- French (Intermediate)
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devrave&layout=compact)
+### 📊 GitHub Contributions
+
+![Andrés Cano Rave GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=devrave&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devrave&layout=compact&theme=dark)
 
 ### 📬 Let's Connect!
-I'm always eager to explore new opportunities, collaborate on innovative projects, or discuss technological challenges. Feel free to reach out and connect!
+Eager to explore opportunities, collaborate on innovative projects, or discuss technological challenges.
 
 ---
 
