@@ -64,7 +64,7 @@ Passionate Industrial Engineer with over a decade of experience, bridging tradit
 ## 📈  GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrave&theme=dark" alt="Andrés Cano Rave's GitHub stats" height="195">
+  <img src="https://user-images.githubusercontent.com/20955511/183303809-eb8fea2f-d56b-4ad3-9f6d-ef55f8812ed2.png" alt="Andrés Cano Rave's GitHub stats" height="195">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrave&theme=dark&layout=compact" alt="Most Used Languages" height="195">
 </p>
 
