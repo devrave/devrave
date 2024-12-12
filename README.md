@@ -4,10 +4,19 @@
 
 ##  Industrial Engineer | Software Developer | Continuous Improvement Specialist
 
-###  Contact
-- **Email**: a.canorave@gmail.com
-- **LinkedIn**: [Andrés Cano Rave](https://www.linkedin.com/in/andrés-cano-rave-019445153/)
-- **GitHub**: [devrave](https://github.com/devrave)
+###  Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-josé-arenas-gaviria-144b79249">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+  </a>
+  <a href="https://github.com/devrave">  
+    <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge" alt="GITHUB"/>
+<!--   </a>
+  <a href="https://devrave.online/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio">
+  </a> -->
+</p>
 
 ###  Professional Profile
 Passionate Industrial Engineer with over a decade of experience, bridging traditional engineering principles with innovative software development. I specialize in transforming complex operational challenges into technological solutions, combining technical expertise with strategic thinking.
@@ -59,11 +68,12 @@ Passionate Industrial Engineer with over a decade of experience, bridging tradit
 - English (Intermediate)
 - French (Intermediate)
 
-###  GitHub Contributions
+###  GitHub Status
 
-![Andrés Cano Rave GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=devrave&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devrave&theme=dark&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrave&theme=dark" alt="Andrés Cano Rave's GitHub stats" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrave&theme=dark&layout=compact" alt="Most Used Languages" height="195">
+</p>
 
 ###  Let's Connect!
 Eager to explore opportunities, collaborate on innovative projects, or discuss technological challenges.
