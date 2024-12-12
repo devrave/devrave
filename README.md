@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/devrave/devrave/blob/main/devraveLogo1.png)
 
-##  Industrial Engineer | Software Developer | Continuous Improvement Specialist
+## 🚀 Industrial Engineer | Software Developer | Continuous Improvement Specialist
 
-###  Connect with Me
+## 🔗  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-josé-arenas-gaviria-144b79249">
@@ -18,7 +18,7 @@
   </a> -->
 </p>
 
-###  Professional Profile
+## Professional Profile
 Passionate Industrial Engineer with over a decade of experience, bridging traditional engineering principles with innovative software development. I specialize in transforming complex operational challenges into technological solutions, combining technical expertise with strategic thinking.
 
 <p align="center">
@@ -44,31 +44,24 @@ Passionate Industrial Engineer with over a decade of experience, bridging tradit
 </p>
 
 
-###  Methodologies & Certifications
+##  Methodologies & Certifications
 - Agile Methodologies (SCRUM)
 - Lean Six Sigma
 - Quality Management Systems
 
-###  Key Competencies
+##  Key Competencies
 - Process Improvement
 - Innovation Strategy
 - Team Leadership
 - Proactive Problem Solving
 - Maintenance Program Development
 
-###  Professional Strengths
-- Strategic technological implementations
-- Developing reliable systems
-- Adaptive to dynamic environments
-- Cross-functional collaboration
-- Data-driven decision making
-
-###  Languages
+##  Languages
 - Spanish (Native)
 - English (Intermediate)
 - French (Intermediate)
 
-###  GitHub Status
+## 📈  GitHub Status
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrave&theme=dark" alt="Andrés Cano Rave's GitHub stats" height="195">
