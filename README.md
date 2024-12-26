@@ -7,15 +7,15 @@
 ## 🔗  Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-josé-arenas-gaviria-144b79249">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-cano-rave-019445153/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://github.com/devrave">  
     <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge" alt="GITHUB"/>
-<!--   </a>
+ </a>
   <a href="https://devrave.online/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio">
-  </a> -->
+  </a> 
 </p>
 
 ## Professional Profile
